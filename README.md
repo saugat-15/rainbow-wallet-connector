@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get Metamask or any of your wallet working to interact with wallet and sign and send Transactions.
 
 Currently, two official plugins are available:
 
